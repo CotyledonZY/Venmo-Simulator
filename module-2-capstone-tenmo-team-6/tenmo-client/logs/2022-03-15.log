@@ -1,0 +1,1 @@
+2022-03-15T16:03:33.2597898 500 : [{"timestamp":"2022-03-15T20:03:33.235+00:00","status":500,"error":"Internal Server Error","message":"Missing URI template variable 'transferId' for method parameter of type Long","path":"/transfer/3016"}]

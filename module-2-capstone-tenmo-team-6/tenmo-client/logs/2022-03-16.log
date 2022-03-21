@@ -1,0 +1,1 @@
+2022-03-16T15:25:08.7674801 400 : [{"timestamp":"2022-03-16T19:25:08.722+00:00","status":400,"error":"Bad Request","message":"Validation failed for object='transfer'. Error count: 1","errors":[{"codes":["Min.transfer.amount","Min.amoun... (524 bytes)]
